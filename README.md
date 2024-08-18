@@ -1,6 +1,6 @@
 # IMDb Movie Ratings Analysis
 
-## Project Overview**
+## Project Overview
 
 This project, conducted for my Stats 101A class at UCLA, explores the factors that influence IMDb ratings of movies. Using a dataset of 1,000 films with 16 variables, the study aims to determine which factors are most predictive of a movie's IMDb rating. The primary goal was to construct a predictive model that unveils the dynamics behind a movie's success as measured by its IMDb rating.
 
