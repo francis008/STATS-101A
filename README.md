@@ -8,11 +8,11 @@ This project, conducted for my Stats 101A class at UCLA, explores the factors th
 
 The dataset, sourced from Kaggle, consists of variables such as release year, Metascore, number of votes, gross revenue, and runtime. After a careful selection process, we focused on five key predictor variables:
 
-Released Year: The year the movie was released.
-Meta Score: A critical rating of the movie.
-Number of Votes: The number of IMDb users who rated the movie.
-Gross Revenue: The movie's gross earnings in U.S. dollars.
-Runtime: The duration of the movie.
+- Released Year: The year the movie was released.
+- Meta Score: A critical rating of the movie.
+- Number of Votes: The number of IMDb users who rated the movie.
+- Gross Revenue: The movie's gross earnings in U.S. dollars.
+- Runtime: The duration of the movie.
 
 ## Methodology
 
@@ -20,10 +20,10 @@ The analysis began with a full model incorporating all selected predictors, foll
 
 ## Key Findings
 
-Older movies tend to have slightly lower IMDb ratings.
-Longer movies generally receive higher IMDb ratings.
-Higher Metascores and a greater number of votes are associated with higher IMDb ratings.
-Interestingly, movies with higher gross earnings tend to have slightly lower IMDb ratings, suggesting that commercial success does not always align with critical or audience acclaim.
+- Older movies tend to have slightly lower IMDb ratings.
+- Longer movies generally receive higher IMDb ratings.
+- Higher Metascores and a greater number of votes are associated with higher IMDb ratings.
+- Interestingly, movies with higher gross earnings tend to have slightly lower IMDb ratings, suggesting that commercial success does not always align with critical or audience acclaim.
 
 ## Conclusion
 
